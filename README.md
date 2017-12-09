@@ -25,7 +25,6 @@ facebook:https://m.facebook.com/whatsvpn<br>
 微信公众号:whatsvpn<br>
 联系电话:<br>
 +852 31108636<br>
-+86 2885366298 (only china)<br>
 <br>
 微信公众号的二维码:<br>
 <a href="#"><img src="images/gongzongweichat-300x300.jpg"></a><br>
